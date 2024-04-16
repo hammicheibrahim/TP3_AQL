@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd845bb-64ab-40b1-a0c1-ba10f381fa72" name="Changes" comment="exo1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo2/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo2/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo2/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo3/ApiCallFailureException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo3/IncompatibleDataFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo3/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo3/ProductApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exo3/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exo2/OrderControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exo3/ProductServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2fd845bb-64ab-40b1-a0c1-ba10f381fa72" name="Changes" comment="exo2 &amp; exo3">
+      <change beforePath="$PROJECT_DIR$/src/test/java/exo1/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exo1/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exo2/OrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exo2/OrderControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +43,7 @@
     "onboarding.tips.debug.path": "E:/TP_S2/tp3_aql/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ProductServiceTest.testGetProduct_ApiCallFailure">
+  <component name="RunManager" selected="JUnit.OrderControllerTest.testCreateOrder">
     <configuration name="OrderControllerTest.testCreateOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tp3_aql" />
       <extension name="coverage">
@@ -130,10 +120,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OrderControllerTest.testCreateOrder" />
         <item itemvalue="JUnit.ProductServiceTest.testGetProduct_ApiCallFailure" />
         <item itemvalue="JUnit.ProductServiceTest.testGetProduct_IncompatibleDataFormat" />
         <item itemvalue="JUnit.ProductServiceTest.testGetProduct_Successful" />
-        <item itemvalue="JUnit.OrderControllerTest.testCreateOrder" />
         <item itemvalue="JUnit.UserServiceTest.testGetUserById" />
       </list>
     </recent_temporary>
@@ -163,13 +153,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713282605119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exo2 &amp; exo3">
+      <option name="closed" value="true" />
+      <created>1713286218593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713286218593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initiation" />
     <MESSAGE value="exo1" />
-    <option name="LAST_COMMIT_MESSAGE" value="exo1" />
+    <MESSAGE value="exo2 &amp; exo3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo2 &amp; exo3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
